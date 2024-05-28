@@ -1,5 +1,3 @@
-# Victória Amaral 🦈 
-
 ## 🚀 Sobre mim...
 Sou uma estudante da área de dados e atualmente curso Big Data para Negócios na Fatec Ipiranga. Realizo cursos no Senai com frequência e estudo bastante em casa. Gosto de ler, mas meu verdadeiro hobby é a cinefilia. Assistir filmes de qualquer época e de qualquer país é minha paixão!
 
