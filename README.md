@@ -5,8 +5,7 @@ Sou uma estudante da área de dados e atualmente curso Big Data para Negócios n
 
 Meu objetivo é me tornar cientista de dados!
 
-## 😄 Pronomes...
-Ela/dela.
+Ela/dela/a.
 
 ## 🛠 Habilidades...
 - Power BI
