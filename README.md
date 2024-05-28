@@ -12,4 +12,3 @@ Ampliando meus conhecimentos em comandos Git, SQL, NoSQL, Python e Java!
 ### 📫 Como entrar em contato comigo...
 Se quiser entrar em contato comigo envie um e-mail para ttoiav.aamaral@gmail.com ou entre em contato pelo LinkedIn!
 ##
-![Logo](https://i.imgur.com/wF5SomY.png)
